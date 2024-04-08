@@ -1,0 +1,111 @@
+body{
+  background-color: lightblue;
+}
+.last_update{
+  position: absolute;
+  left: 80%;
+  top: 90%;
+  background-color: yellowgreen;
+}
+ 
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.topnav a:hover {
+  background-color: lightblue;
+  color: rgb(255, 5, 184);
+  /* fontrgb(255, 0, 195): 30px; */
+  padding: 14px 23px;
+}
+
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+} 
+
+.js_button{
+  background-color: #00FF0A;
+  color: rgb(255, 0, 224);
+  position: absolute;
+  padding: 18px 23px;
+  left: 21%;
+  top: 24%;
+}.js_button:hover{
+  background-color: #64e668;
+  color: rgb(43, 23, 142);
+}
+.js_button1{
+  background-color: #00FF0A;
+  color: rgb(255, 0, 224);
+  position: absolute;
+  padding: 14px 23px;
+  left: 39%;
+  top: 25%;
+}.js_button1:hover{
+  background-color: #64e668;
+  color: rgb(43, 23, 142);
+}
+.js_button2{
+  background-color: rgb(171, 111, 71);
+  color: rgb(43, 23, 142);
+  position: absolute;
+  padding: 14px 23px;
+  left: 59%;
+  top: 26%;
+}.js_button2:hover{
+  background-color: #64e668;
+  color: rgb(255, 0, 224);
+}
+.js_in{
+  position: absolute;
+  left: 70%;
+  top: 46%;
+}
+
+.counter_left{
+  padding: 14px 23px;
+  background-color: black;
+  color: white;
+}.counter_right{
+  padding: 14px 23px;
+  background-color: black;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
