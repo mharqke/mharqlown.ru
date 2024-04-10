@@ -1,5 +1,9 @@
-body{
+
+/* body{
   background-color: lightblue;
+} */
+body{
+  background-color: rgb(50, 72, 79);
 }
 .last_update{
   position: absolute;
